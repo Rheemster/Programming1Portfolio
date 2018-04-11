@@ -1,4 +1,4 @@
-#### YOUR MOM GAY
+###### YOUr MoM GaY
 
 You can use the [editor on GitHub](https://github.com/Rheemster/Programming1Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
