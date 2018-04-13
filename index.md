@@ -1,32 +1,47 @@
-### 2017 - 2018 School Year
+## 2017 - 2018 School Year
 
 During this school year I took a Programming 1 class.  During this class, we learned the basics of coding.  We used Java for the first semester, and then switched to whatever language we desired for semester 2.  Python was my language of choice.
 
-### Projects
+## Projects
 
 Listed here are some of the various projects I worked on.
 
+### Pipes Screensaver
+
+This was one of my earlier projects, so it may not be too technically impressive, but I'm very happy as to how it came out.  It was created using the Proccessing environment.
 
 
-## Header 2
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+![Screensaver](https://github.com/Rheemster/Screensaver/blob/master/ScreenSaver.png)
 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Repository](https://github.com/Rheemster/Screensaver)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Rheemster/Programming1Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Contact
+### Calculator
 
-Contact me at rheemster@gmail.com
+This was one of the larger projects we tackled during this class.  We were tasked to create a functioning calculator application.  We used the Proccessing environment here as well.
+
+
+![Calculator](https://github.com/Rheemster/Calculator/blob/master/CalculatorScreenshot.png)
+
+
+[Repository](https://github.com/Rheemster/Calculator)
+
+
+
+### Chess
+
+This was the largest project we developed during the year.  A team of 3 others and I worked to create a working chess game.  We opted for the Proccessing environment for this project as well, though we used the Python development mode to write the code.
+
+
+![Chess](https://github.com/The-tiny-asian/chess/blob/master/ChessRunning.png)
+
+
+[Repository](https://github.com/The-tiny-asian/chess)
+
+
+
+## Contact Information
+
+Feel free to contact me at rheemster@gmail.com
