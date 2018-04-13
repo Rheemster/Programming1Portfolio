@@ -1,16 +1,14 @@
-### hOT dogS ARE saNDWIChes
+### 2017 - 2018 School Year
 
-You can use the [editor on GitHub](https://github.com/Rheemster/Programming1Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+During this school year I took a Programming 1 class.  During this class, we learned the basics of coding.  We used Java for the first semester, and then switched to whatever language we desired for semester 2.  Python was my language of choice.
 
 ### Projects
 
-Here are several projects I created during the 2017 - 2018 school year
+Listed here are some of the various projects I worked on.
 
-# Header 1
+
+
 ## Header 2
-### Header 3
 
 - Bulleted
 - List
