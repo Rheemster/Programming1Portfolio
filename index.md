@@ -11,7 +11,7 @@ Listed here are some of the various projects I worked on.
 This was one of my earlier projects, so it may not be too technically impressive, but I'm very happy as to how it came out.  It was created using the Proccessing environment.
 
 
-![Screensaver](https://github.com/Rheemster/Screensaver/blob/master/ScreenSaver.png)
+![Screensaver](https://github.com/Rheemster/Programming1Portfolio/blob/master/ScreenSaver.png)
 
 
 [Repository](https://github.com/Rheemster/Screensaver)
@@ -23,7 +23,7 @@ This was one of my earlier projects, so it may not be too technically impressive
 This was one of the larger projects we tackled during this class.  We were tasked to create a functioning calculator application.  We used the Proccessing environment here as well.
 
 
-![Calculator](https://github.com/Rheemster/Calculator/blob/master/CalculatorScreenshot.png)
+![Calculator](https://github.com/Rheemster/Programming1Portfolio/blob/master/CalculatorScreenshot.png)
 
 
 [Repository](https://github.com/Rheemster/Calculator)
@@ -35,7 +35,7 @@ This was one of the larger projects we tackled during this class.  We were taske
 This was the largest project we developed during the year.  A team of 3 others and I worked to create a working chess game.  We opted for the Proccessing environment for this project as well, though we used the Python development mode to write the code.
 
 
-![Chess](https://github.com/The-tiny-asian/chess/blob/master/ChessRunning.png)
+![Chess](https://github.com/Rheemster/Programming1Portfolio/blob/master/ChessRunning.png)
 
 
 [Repository](https://github.com/The-tiny-asian/chess)
