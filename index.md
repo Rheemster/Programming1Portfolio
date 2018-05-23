@@ -39,6 +39,16 @@ This was the largest project we developed during the year.  A team of 3 others a
 
 
 
+### Sudoku
+
+This was my final project.  It is still very much a work in progress.  It runs on the command terminal rather than in any specific environment.
+
+[Repository](https://github.com/Rheemster/Sudoku)
+
+![Sudoku](https://github.com/Rheemster/Programming1Portfolio/raw/master/SudokuRunning.png)
+
+
+
 ## Contact Information
 
 Feel free to contact me at rheemster@gmail.com
